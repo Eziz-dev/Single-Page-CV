@@ -1,0 +1,36 @@
+* {
+  padding: 0px 10px;
+  margin: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+  margin-top: 30px;
+}
+
+
+body {
+  border: 3px solid black;
+}
+
+section {
+  padding: 2px 0px;
+}
+
+section h1 {
+  padding: 10px;
+}
+
+h3 {
+  color: limegreen;
+  font-weight: bolder;
+}
+
+h4 {
+  color: dodgerblue;
+  font-weight: bolder;
+}
+
+a {
+  text-decoration: none;
+}
